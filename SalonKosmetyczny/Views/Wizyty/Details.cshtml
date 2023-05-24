@@ -1,0 +1,58 @@
+﻿@model SalonKosmetyczny.Models.DbModels.Wizyta
+
+@{
+    ViewBag.Title = "Szczegóły";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Wizyta</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Klient.DaneKlienta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Klient.DaneKlienta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pracownik.DanePracownika)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pracownik.DanePracownika)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Zabieg.NazwaZabiegu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Zabieg.NazwaZabiegu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataGodzinaRozpoczecia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataGodzinaRozpoczecia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataGodzinaZakonczenia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataGodzinaZakonczenia)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edytuj", "Edit", new { id = Model.WizytaID }) |
+    @Html.ActionLink("Powrót do harmonogramu wizyt", "Index")
+</p>

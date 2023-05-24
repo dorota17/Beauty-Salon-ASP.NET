@@ -1,0 +1,808 @@
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll.config
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.pdb
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe.config
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Console.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\WebGrease.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Razor.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CopyComplete
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.dll
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.pdb
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.First.resources
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Wizyty.resources
+C:\Users\HP\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Poprawka.resources
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll.config
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.pdb
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe.config
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.rsp
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe.config
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.rsp
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.AppContext.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Console.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Http.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Sockets.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.ValueTuple.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe.config
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.rsp
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\WebGrease.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.pdb
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Razor.resources.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.AssemblyReference.cache
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.First.resources
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Wizyty.resources
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Poprawka.resources
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.GenerateResource.cache
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CoreCompileInputs.cache
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CopyComplete
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.dll
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.pdb
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.CzasWizyty.resources
+C:\Users\406009\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.ZmianaNull.resources
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll.config
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.pdb
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\WebGrease.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.First.resources
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Wizyty.resources
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Poprawka.resources
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.CzasWizyty.resources
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.ZmianaNull.resources
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CopyComplete
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.dll
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.pdb
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Aktualizacja.resources
+C:\Users\HP\Desktop\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DanePolaczone.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll.config
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.pdb
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe.config
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.rsp
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe.config
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.rsp
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.AppContext.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Console.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Http.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.ValueTuple.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe.config
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.rsp
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\WebGrease.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.pdb
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.AssemblyReference.cache
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.First.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Wizyty.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Poprawka.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.CzasWizyty.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.ZmianaNull.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Aktualizacja.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DanePolaczone.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.GenerateResource.cache
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CopyComplete
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.pdb
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty2.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty3.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty4.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty5.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny (3)\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty51.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll.config
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.pdb
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe.config
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.rsp
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe.config
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.rsp
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.AppContext.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Console.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Http.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.ValueTuple.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe.config
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.rsp
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\WebGrease.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.pdb
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.AssemblyReference.cache
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.First.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Wizyty.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Poprawka.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.CzasWizyty.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.ZmianaNull.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Aktualizacja.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DanePolaczone.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty2.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty3.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty4.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty5.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty51.resources
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.GenerateResource.cache
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CopyComplete
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.dll
+C:\Users\Komputer\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.pdb
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll.config
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.pdb
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe.config
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.rsp
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe.config
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.rsp
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.AppContext.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Console.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Http.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Sockets.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.ValueTuple.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe.config
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.rsp
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\WebGrease.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.pdb
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Razor.resources.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.AssemblyReference.cache
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.First.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Wizyty.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Poprawka.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.CzasWizyty.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.ZmianaNull.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Aktualizacja.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DanePolaczone.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty2.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty3.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty4.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty5.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty51.resources
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.GenerateResource.cache
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CoreCompileInputs.cache
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CopyComplete
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.dll
+C:\Users\beata\Downloads\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.pdb
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll.config
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.pdb
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe.config
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Console.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\WebGrease.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Razor.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.First.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Wizyty.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Poprawka.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.CzasWizyty.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.ZmianaNull.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Aktualizacja.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DanePolaczone.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty2.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty3.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty4.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty5.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty51.resources
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CopyComplete
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.dll
+C:\Users\HP\Downloads\SalonKosmetyczny3\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.pdb
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll.config
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\SalonKosmetyczny.pdb
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\WebGrease.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.First.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Wizyty.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Poprawka.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.CzasWizyty.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.ZmianaNull.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.Aktualizacja.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DanePolaczone.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty2.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty3.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty4.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty5.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.Migrations.DataWizyty51.resources
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.csproj.CopyComplete
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.dll
+C:\Users\HP\Desktop\Salon official\SalonKosmetyczny\SalonKosmetyczny\obj\Debug\SalonKosmetyczny.pdb

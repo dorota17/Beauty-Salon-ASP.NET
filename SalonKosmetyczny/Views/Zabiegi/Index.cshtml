@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SalonKosmetyczny.Models.DbModels.Zabieg>
+
+@{
+    ViewBag.Title = "Zabiegi";
+}
+
+<h2>Zabiegi</h2>
+
+<p>
+    @Html.ActionLink("Dodaj zabieg", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NazwaZabiegu)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CzasTrwaniaMin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cena)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NazwaZabiegu)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CzasTrwaniaMin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cena)
+        </td>
+        <td>
+            @Html.ActionLink("Edytuj", "Edit", new { id=item.ZabiegID }) |
+            @Html.ActionLink("Szczegóły", "Details", new { id=item.ZabiegID }) |
+            @Html.ActionLink("Usuń", "Delete", new { id=item.ZabiegID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,26 @@
+﻿
+@using System.Linq.Expressions
+@model SalonKosmetyczny.Models.DbModels.Pracownik
+
+@using System.Web.Mvc.Html
+
+@using (Html.BeginForm("Login", "Account", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.PracownikId)
+        @Html.TextBoxFor(m => m.PracownikId, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.PracownikId, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Haslo)
+        @Html.PasswordFor(m => m.Haslo, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Haslo, "", new { @class = "text-danger" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Zaloguj się</button>
+}
+
+

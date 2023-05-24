@@ -1,0 +1,45 @@
+﻿@model SalonKosmetyczny.Models.DbModels.Klient
+
+@{
+    ViewBag.Title = "Usuń";
+}
+
+<h2>Na pewno chcesz usunąć tego klienta?</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ImieKlienta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ImieKlienta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NazwiskoKlienta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NazwiskoKlienta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumerTelefonu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumerTelefonu)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Usuń" class="btn btn-secondary" /> |
+            @Html.ActionLink("Powrót do listy klientów", "Index")
+        </div>
+    }
+</div>

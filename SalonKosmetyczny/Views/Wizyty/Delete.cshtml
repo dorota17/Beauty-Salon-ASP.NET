@@ -1,0 +1,61 @@
+﻿@model SalonKosmetyczny.Models.DbModels.Wizyta
+
+@{
+    ViewBag.Title = "Usuń";
+}
+
+<h2>Na pewno chcesz usunąć tą wizytę?</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Klient.DaneKlienta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Klient.DaneKlienta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pracownik.DanePracownika)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pracownik.DanePracownika)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Zabieg.NazwaZabiegu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Zabieg.NazwaZabiegu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataGodzinaRozpoczecia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataGodzinaRozpoczecia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataGodzinaZakonczenia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataGodzinaZakonczenia)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Usuń" class="btn btn-secondary" /> |
+            @Html.ActionLink("Powrót do harmonogramu wizyt", "Index")
+        </div>
+    }
+</div>

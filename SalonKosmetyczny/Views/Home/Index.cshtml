@@ -1,0 +1,143 @@
+﻿@{
+    ViewBag.Title = "Strona główna";
+}
+
+<div class="landing-page">
+    <div class="landing-page-text">
+        <h1>System Zarządzania Salonem Kosmetycznym</h1>
+    </div>
+    <button class="scroll-button">Przejdź dalej</button>
+</div>
+
+<main style="margin-top: 105vh">
+
+            <div class="row">
+                <section class="col-md-4" aria-labelledby="klienciTitle">
+                    <img src="~/Content/images/iamge4.jpg" alt="Klienci" class="section-image">
+                    <h2 id="klienciTitle">Klienci</h2>
+                    <p>Zarządzaj bazą klientów.</p>
+                    <p><a class="btn btn-outline-info" href="@Url.Action("Index", "Klienci")">Otwórz: Klienci &raquo;</a></p>
+                </section>
+                <section class="col-md-4" aria-labelledby="pracownicyTitle">
+                    <img src="~/Content/images/image3.jpg" alt="Pracownicy" class="section-image">
+                    <h2 id="pracownicyTitle">Pracownicy</h2>
+                    <p>Zarządzaj bazą pracowników.</p>
+                    <p><a class="btn btn-outline-info" href="@Url.Action("Index", "Pracownicy")">Otwórz: Pracownicy &raquo;</a></p>
+                </section>
+            </div>
+
+            <div class="row">
+                <section class="col-md-4" aria-labelledby="zabiegiTitle">
+                    <img src="~/Content/images/image1.jpg" alt="Zabiegi" class="section-image">
+                    <h2 id="zabiegiTitle">Zabiegi</h2>
+                    <p>Zarządzaj bazą zabiegów.</p>
+                    <p><a class="btn btn-outline-info" href="@Url.Action("Index", "Zabiegi")">Otwórz: Zabiegi &raquo;</a></p>
+                </section>
+                <section class="col-md-4" aria-labelledby="wizytyTitle">
+                    <img src="~/Content/images/image6.jpg" alt="Wizyty" class="section-image">
+                    <h2 id="wizytyTitle">Wizyty</h2>
+                    <p>Zarządzaj harmonogramem wizyt.</p>
+                    <p><a class="btn btn-outline-info" href="@Url.Action("Index", "Wizyty")">Otwórz: Wizyty &raquo;</a></p>
+                </section>
+            </div>
+    </main>
+
+    <style>
+        .landing-page {
+            background-image: url('https://www.jamjam.pl/wp-content/uploads/2020/12/065PWW_20200720_wnetrza_sala.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: #fff;
+            padding: 0;
+            position: absolute;
+            top: 56px;
+            left: 0;
+        }
+        .landing-page h1 {
+            font-size: 48px;
+            color: #81abca;
+            text-shadow: 2px 2px 4px #fff;
+            border-color: #fff;
+            border-bottom-width: thick;
+        }            
+        .landing-page-text {
+            background-color: #ffffffa1;
+            padding: 10px 10px;
+            border-radius: 10px;           
+        }
+
+        .landing-page button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #81abca;
+            color: #ffffff;
+            font-size: 18px;
+            border: 2px solid #ffffff;
+            border-radius: 5px;
+            text-shadow: 1px 1px 2px #fff;
+            transition: background-color 0.3s ease;
+        }
+
+        .landing-page button:hover {
+            background-color: #f8e5e5;
+            color: #81abca;
+        }
+
+        .row {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .row section {
+            flex: 0 0 300px;
+            text-align: center;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            margin: 0 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .row section h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        .row section p {
+            margin-bottom: 20px;
+        }
+
+        .row section a {
+            text-decoration: none;
+        }
+
+        .btn-outline-dark {
+            border: 2px solid #333;
+            color: #333;
+        }
+
+        .section-image {
+            width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            $(".scroll-button").click(function () {
+                $('html, body').animate({
+                    scrollTop: $("main").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+    
